@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\bin\Debug\ResBookApp.exe.config
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\bin\Debug\ResBookApp.exe
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\bin\Debug\ResBookApp.pdb
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\bin\Debug\ResBookAppLibrary1.dll
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\bin\Debug\ResBookAppLibrary1.pdb
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.Form1.resources
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.FrmPersonal.resources
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.csproj.Up2Date
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.exe
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.pdb
+C:\Users\Admin\source\repos\ResBookApp\ResBookApp\obj\Debug\ResBookApp.FrmReservation.resources

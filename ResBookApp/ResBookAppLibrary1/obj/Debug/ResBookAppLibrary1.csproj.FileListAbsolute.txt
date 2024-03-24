@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ResBookApp\ResBookAppLibrary1\bin\Debug\ResBookAppLibrary1.dll
+C:\Users\Admin\source\repos\ResBookApp\ResBookAppLibrary1\bin\Debug\ResBookAppLibrary1.pdb
+C:\Users\Admin\source\repos\ResBookApp\ResBookAppLibrary1\obj\Debug\ResBookAppLibrary1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ResBookApp\ResBookAppLibrary1\obj\Debug\ResBookAppLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ResBookApp\ResBookAppLibrary1\obj\Debug\ResBookAppLibrary1.dll
+C:\Users\Admin\source\repos\ResBookApp\ResBookAppLibrary1\obj\Debug\ResBookAppLibrary1.pdb
